@@ -5,9 +5,9 @@
 ## screenshots
 
 <table>
-<tr></tr><tr><td align="center"><h5>light</h5></td>
+<tr></tr><tr><td align="center"><h5>carbonized-light</h5></td>
 <td align="center"><img src="img/screenshot-carbonized-light.png" alt="screenshot of the carbonized-light vim theme" width="256"> <img src="img/screenshot-carbonized-dark.png" alt="screenshot of the carbonized-dark vim theme" width="256"></td>
-<td align="center"><h5>dark</h5></td></tr>
+<td align="center"><h5>carbonized-dark</h5></td></tr>
 </table>
 
 ## installation
