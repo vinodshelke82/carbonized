@@ -42,5 +42,5 @@ These are the Vim commands applied to the 'base16-solarized' colour scheme files
 
 %s/StatusLineNC",  s:gui03, s:gui01, s:cterm03, s:cterm01/StatusLineNC",  s:gui09, s:gui01, s:cterm09, s:cterm01/ |
 
-%s/WildMenu",      s:gui08, s:gui0A/WildMenu",      s:gui08, s:gui00/
+%s/WildMenu",      s:gui08, s:gui0A, s:cterm08/WildMenu",      s:gui09, s:gui00, s:cterm09/
 ```
