@@ -1,6 +1,6 @@
 # carbonized
 
-**carbonized** is a vim/terminal theme inspired by the [Carbon keycap set](https://www.massdrop.com/buy/gmk-carbon-custom-keycap-set) by T0mb3ry.
+**carbonized** is a vim/terminal theme inspired by the [Carbon keycap set](https://geekhack.org/index.php?topic=79693.0) by T0mb3ry.
 
 ## screenshots
 
