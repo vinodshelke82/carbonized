@@ -1,10 +1,5 @@
 These are the Vim commands applied to the 'base16-solarized' colour scheme files in order to transmogrify them into the carbonized files.
 
-The carbonized colour scheme files found in this repository are generated from:
-
-- [`base16-solarized-light.vim`](https://github.com/chriskempson/base16-vim/blob/master/colors/base16-solarized-light.vim) commit c1c3e6c
-- [`base16-solarized-dark.vim`](https://github.com/chriskempson/base16-vim/blob/master/colors/base16-solarized-dark.vim) commit c1c3e6c
-
 ## names
 
 ```
