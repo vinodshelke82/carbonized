@@ -24,7 +24,7 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 ### step 2: activate the colour scheme
 
-To activate the carbonized theme, add one of the following lines to `.vimrc`:
+To activate the carbonized theme, add one of the following lines to your `vimrc`:
 - `colorscheme carbonized-light`
 - `colorscheme carbonized-dark`
 
