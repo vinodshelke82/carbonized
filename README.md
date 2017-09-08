@@ -1,6 +1,6 @@
 # carbonized
 
-**carbonized** is a vim theme inspired by the [Carbon keycap set](https://www.massdrop.com/buy/gmk-carbon-custom-keycap-set) by T0mb3ry.
+**carbonized** is a vim/terminal theme inspired by the [Carbon keycap set](https://www.massdrop.com/buy/gmk-carbon-custom-keycap-set) by T0mb3ry.
 
 ## screenshots
 
@@ -24,11 +24,11 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 ### step 2: activate the colour scheme
 
-To activate the carbonized theme, add `colorscheme carbonized-light` (or `colorscheme carbonized-dark`) to the `vimrc` file.
+To activate the carbonized theme, add one of the following lines to `.vimrc`:
+- `colorscheme carbonized-light`
+- `colorscheme carbonized-dark`
 
 For Neovim, add `set termguicolors` to enable truecolour support.
-
-To switch automatically between a 'day theme' and 'night theme', try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
 
 ### step 3: configure terminal colours (if using Vim in a terminal)
 
